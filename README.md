@@ -10,9 +10,9 @@
 ## 工作/实习经历
 前端工程师 - 云南拾起科技, 2016.1 至今
 - 今知商城（开发中） **Vue webpack**：拿到60个API和上一版本的设计图，重新梳理了购物流程，参考Apple Music和AppStore设计了新的UI，独立完成15个页面30个Vue组件的开发，页面由客户端渲染。
-- [快乐十分号码推荐](http://huaban.com/pins/844077240/zoom) **TV**：还原设计图，配合后端工程师完成数据定时刷新、中奖时播放视频功能。交付打包后运行于Android TV。使用flex布局，自适应出色。
+- [快乐十分号码推荐](http://huaban.com/pins/844077240/zoom)：还原设计图，配合后端工程师完成数据定时刷新、中奖时播放视频功能。交付打包后运行于Android TV。使用flex布局，自适应出色。
 - [拾起科技网站](http://tang7h.github.io/shiqikeji/) **AngularJS flex**：参考Apple官网独立完成的公司网站。
-- [彩票用户管理系统](http://huaban.com/pins/762402607/zoom) **AngularJS Material design**：和管理员沟通了解产品需求，分析了添加、修改、查找几个主要功能，独立完成开发。使用Angular过滤、排序、与服务器交换数据。
+- [彩票用户管理系统](http://huaban.com/pins/762402607/zoom) **Material design**：和管理员沟通了解产品需求，分析了添加、修改、查找几个主要功能，独立完成开发。使用Angular过滤、排序、与服务器交换数据。
 - [知了彩票](http://huaban.com/pins/761983457/zoom)：微信平台的单页面应用，为后端输出页面添加样式和交互，局部使用 iOS UI blur effect。
 - 彩票电子走势图：优化网页在电视上的加载速度，改进DOM减少了三分之二数据传输，页面加载由数十秒缩短到1秒内。
 - [云南师大附小网站](http://tang7h.github.io/ynsdfx/ynsdfx.html)，[移动设备网站](http://huaban.com/pins/761170830/zoom)，[App](http://huaban.com/pins/761810350/zoom) **UI/UX**
@@ -23,5 +23,5 @@
 毕业设计：[扇贝取词](http://tang7h.github.io/shanbay-trf/)（Material design, Chrome extention, AJAX）
 
 ## 其他
-- iPad mini 流水线 operator - 上海昌硕科技，2014.01.13～02.20 同岗位操作效率和良品率第一。
+- iPad mini 流水线 operator - 上海昌硕科技，2014.01.13～02.20：同岗位操作效率和良品率第一。
 - 社交：[Github](https://github.com/tang7h)， [豆瓣](http://www.douban.com/people/5929836/)
