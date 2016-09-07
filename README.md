@@ -14,6 +14,7 @@
 - [拾起科技网站](http://tang7h.github.io/shiqikeji/) **AngularJS flex**：参考Apple官网独立完成的公司网站。
 - [彩票用户管理系统](http://huaban.com/pins/762402607/zoom) **AngularJS Material design**：和管理员沟通了解产品需求，分析了添加、修改、查找几个主要功能，独立完成开发。使用Angular过滤、排序、与服务器交换数据。
 - [知了彩票](http://huaban.com/pins/761983457/zoom)：微信平台的单页面应用，为后端输出页面添加样式和交互，局部使用 iOS UI blur effect。
+- 彩票电子走势图：优化网页在电视上的加载速度，改进DOM减少了三分之二数据传输，页面加载由数十秒缩短到1秒内。
 - [云南师大附小网站](http://tang7h.github.io/ynsdfx/ynsdfx.html)，[移动设备网站](http://huaban.com/pins/761170830/zoom)，[App](http://huaban.com/pins/761810350/zoom) **UI/UX**
 - 组件/动画：[Material design Bottom navigation](http://tang7h.github.io/bottom-navigation/)，[Material design FAB](http://tang7h.github.io/evernote-fab/evernote-fab.html)，[watchOS Breath animation](http://tang7h.github.io/test/breath-animation.html)，[Google loading](http://tang7h.github.io/test/circle-loading.html)，[Windows loading](http://tang7h.github.io/test/windows-loading.html)，[osu!](http://tang7h.github.io/osu-copy/constellation-prize.html)
 
